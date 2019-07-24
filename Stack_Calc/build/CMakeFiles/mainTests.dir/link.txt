@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -rdynamic CMakeFiles/mainTests.dir/src/mainTests.cpp.o CMakeFiles/mainTests.dir/src/stack_calculator.cpp.o  -o mainTests -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

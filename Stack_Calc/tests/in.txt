@@ -1,0 +1,5 @@
+DEFINE abc 0
+DEFINE acb 1
+DEFINE bac 2
+DEFINE bca 3
+DEFINE cab 4

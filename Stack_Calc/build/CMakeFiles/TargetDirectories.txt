@@ -1,0 +1,4 @@
+/home/goodaman/Projects/Stack_Calc/build/CMakeFiles/rebuild_cache.dir
+/home/goodaman/Projects/Stack_Calc/build/CMakeFiles/edit_cache.dir
+/home/goodaman/Projects/Stack_Calc/build/CMakeFiles/mainTests.dir
+/home/goodaman/Projects/Stack_Calc/build/CMakeFiles/test.dir
